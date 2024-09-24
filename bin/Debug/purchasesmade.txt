@@ -1,0 +1,28 @@
+Rohit, 21, Corolla, Hybrid, 3444
+Arya, 21, Corolla, Sport, 717
+Arya, 21, Corolla, Sport, 717
+Rohit, 21, Civic, Hybrid, 15000
+Rohit Arun, 19, Civic, Hybrid, 100
+Rohit, 23, Sonata, Hybrid, 3000
+Jay Kari, 21, Corolla, Basic, 2000
+rohit, 21, Corolla, Hybrid, 3000
+Rohit, 23, Corolla, Hybrid, 3000
+Rohit, 12, Camry, Hybrid, 2000
+Rohit, 34, Corolla, Hybrid, 3300
+Rohit Arun, 21, Corolla, Hybrid, 344
+Rohit , 21, Corolla, Hybrid, 3000
+Rohit, 21, Civic, Sport, 2344
+Rohit, 32, Corolla, Hybrid, 3434
+Rohit, 0, Civic, Hybrid, 2333
+Rohit, 23, Civic, Hybrid, 3323
+, 1, Civic, Hybrid, 333
+r, 1, Civic, Hybrid, 333
+Rohit, 0, Sonata, Hybrid, 3000
+Rohit, 12, Civic, Hybrid, 333
+ROhit , 23, Corolla, Hybrid, 2344
+Rohit, 34, Sonata, Sport, 2333
+Rohit, 23, Sonata, Hybrid, 800
+Rohit, 23, Camry, Hybrid, 800
+Ro, 33, Camry, Sport, 1000
+Rohit arun, 22, Civic, Sport, 2029
+Colton, 3, Civic, Hybrid, $3,000.00
